@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
         }
         if(id==R.id.item1)
         {
+            Intent i = new Intent(this,QuienesSomos.class);
+            startActivity(i);
             Toast.makeText(this,"Click en Quienes Somos",Toast.LENGTH_SHORT).show();
         }
         if(id==R.id.item3)

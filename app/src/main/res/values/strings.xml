@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProyectoFinal</string>
+    <string name="Imagen_Logo">logoInfo</string>
 </resources>

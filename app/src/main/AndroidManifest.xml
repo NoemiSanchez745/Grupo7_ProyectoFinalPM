@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Grupo7_ProyectoFinalPM">
-        <activity android:name=".Inicio2"
+        <activity android:name=".QuienesSomos"></activity>
+        <activity
+            android:name=".Inicio2"
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
